@@ -1,0 +1,11 @@
+Find and replace in VSC
+
+Enable regex before doing
+While finding a "text", which entirely occupies a line, if you want to remove that use the following regex to remove entirely
+i)
+Find: const\s\n
+Replace <Nothing>
+
+ii)
+Find: a = a+3;\n
+Replace <Nothing>
